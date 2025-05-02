@@ -1,11 +1,11 @@
 from typing import Optional
 import pyray as rl
-from poormishaengine.nodes import *
+from nodes import *
 
 from enum import Enum, auto
 
-from poormishaengine.enginetypes import *
-from poormishaengine.resources import *
+from enginetypes import *
+from resources import *
 from pyray import Vector2
 
 class PoorEngine:
